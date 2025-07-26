@@ -1,6 +1,6 @@
 {
   "name": "ethiopian-gregorian-date-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library for converting between Ethiopian and Gregorian dates",
   "main": "dist/index.js",
   "author": "Biruk Ephrem",
