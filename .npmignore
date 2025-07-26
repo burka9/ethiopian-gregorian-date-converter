@@ -1,1 +1,6 @@
 test/
+*.log
+*.md~
+tsconfig.json
+src/
+.npmrc
