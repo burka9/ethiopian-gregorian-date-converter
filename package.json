@@ -1,0 +1,23 @@
+{
+  "name": "ethiopian-gregorian-date-converter",
+  "version": "1.0.0",
+  "description": "Library for converting between Ethiopian and Gregorian dates",
+  "main": "dist/index.js",
+  "author": "Biruk Ephrem",
+  "license": "ISC",
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "ethiopian",
+    "gregorian",
+    "date",
+    "converter",
+    "typescript"
+  ],
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
